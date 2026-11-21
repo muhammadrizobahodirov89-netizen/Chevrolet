@@ -1,0 +1,6 @@
+{
+  "name": "Rizo Studio — IT O'quv Markazi Taqdimoti",
+  "description": "Ota-onalar va mehmonlar uchun IT o'quv markazida yaratilgan loyihalar, o'quv natijalari va interaktiv veb-ilovalar taqdimoti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
